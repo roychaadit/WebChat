@@ -1,4 +1,4 @@
-# Restaurateur
+# WebChatter
 
 ## Project setup
 ```
